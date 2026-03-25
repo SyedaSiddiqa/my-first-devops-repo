@@ -1,2 +1,2 @@
-# my-first-devops-repo
-my-first-devops-repo
+# My DevOps Project
+Learning GitHub
